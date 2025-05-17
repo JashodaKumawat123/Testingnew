@@ -1,3 +1,3 @@
-module github.com/Manu-Abuya/CI-CD-Pipeline-Automation
+module github.com/JashodaKumawat123/Testingnew
 
 go 1.18
